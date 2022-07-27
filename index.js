@@ -61,11 +61,10 @@ function writeToFile(fileName, data) {
 
 };
 
-writeToFile();
-
 // TODO: Create a function to initialize app
 function init() {
-
+    questions()
+    writeToFile();
 };
 
 // Function call to initialize app
