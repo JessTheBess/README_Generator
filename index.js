@@ -36,7 +36,7 @@ const generatePage = require('./page_template');
         {
         name: "cont",
         type: "input",
-        message: "Did anyone else contribute? (If no one else did, respond with N/A the the following questions)"
+        message: "Did anyone else contribute? (If no one else did, respond with N/A)"
         },
         {
         name: "github",
