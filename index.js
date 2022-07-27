@@ -14,9 +14,9 @@ const generatePage = require('./page_template');
         message: "What is the Name of your/the Project?"
         },
         {
-        name: "lisence",
+        name: "license",
         type: "input",
-        message: "What Lisence did you use?"
+        message: "What License did you use?"
         },
         {
         name: "desc",
@@ -58,13 +58,22 @@ const generatePage = require('./page_template');
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-
+    fs.writeFile(fileName, data, (err) => {
+        if(err) {
+            return console.log(err);
+        }
+        console.log("Your Custom README is Ready for Preview!");
+    })
 };
 
 // TODO: Create a function to initialize app
 function init() {
     questions()
-    writeToFile();
+    .then(function(userInput) {
+        console.log(userInput);
+
+    writeToFile("README.md", generatePage(userInput));
+    });
 };
 
 // Function call to initialize app
