@@ -1,8 +1,8 @@
 # 
-    njudn
+    house
     ## license:
 
-    ![license](https://img.shields.io/badge/license-njdos-blue.svg) 
+    ![license](https://img.shields.io/badge/license-data-blue.svg) 
     
     ## table of contents:
     - [license](#license)
@@ -16,29 +16,28 @@
     
     ## description:
 
-    noufesn
+    how to build a house
 
     ## installation:
 
-    niofne
+    install inquirer
 
     ## usage:
 
-    niofen
+    learn how to build a house
 
     ## contributors:
 
-    noifens
+    n/a
 
     ## github:
 
-    nifensl
+    JessTheBess
 
     ## email:
 
-    nlsfn
+    miltonjessica3@gmail.com
 
     ## tests:
 
-    niofes
-    
+    all
