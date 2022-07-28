@@ -1,43 +1,43 @@
 # 
-    house
-    ## license:
+house
+## license:
 
-    ![license](https://img.shields.io/badge/license-data-blue.svg) 
-    
-    ## table of contents:
-    - [license](#license)
-    - [description](#description)
-    - [installation](#installation)
-    - [usage](#usage)
-    - [contributors](#contributors)
-    - [github](#github)
-    - [email](#email)
-    - [tests](#tests)
-    
-    ## description:
+![license](https://img.shields.io/badge/license-data-blue.svg) 
 
-    how to build a house
+## table of contents:
+- [license](#license)
+- [description](#description)
+- [installation](#installation)
+- [usage](#usage)
+- [contributors](#contributors)
+- [github](#github)
+- [email](#email)
+- [tests](#tests)
 
-    ## installation:
+## description:
 
-    install inquirer
+house to build house
 
-    ## usage:
+## installation:
 
-    learn how to build a house
+install inquirer
 
-    ## contributors:
+## usage:
 
-    n/a
+learn how to build a house
 
-    ## github:
+## contributors:
 
-    JessTheBess
+N/A
 
-    ## email:
+## github:
 
-    miltonjessica3@gmail.com
+JessTheBess
 
-    ## tests:
+## email:
 
-    all
+miltonjessica3@gmail.com
+
+## tests:
+
+all
